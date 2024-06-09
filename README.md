@@ -12,7 +12,7 @@ Make sure to install and import the following Python libraries
 **Processing the data**
 
 The code uses the Violence and Safe dataset which consists of different graphical violent and graphical safe images. The dataset is divided into train data, test data and validation data.
-The data is loaded and resized using the image data generator to read and modify data from the file given.
+The data is loaded and resized using the image data generator to read and modify the data.
 
 **Model Used**
 
