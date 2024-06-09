@@ -17,6 +17,10 @@ The data is loaded and resized using the image data generator to read and modify
 **Model Used**
 
 We have used the Sequential model in the Convolutional Neural Network to train and validate the data to achieve the desired output.
+
+#Dataset Link
+The dataset for this project has been taken from the URL given below
+https://www.kaggle.com/datasets/kartikeybartwal/graphical-violence-and-safe-images-dataset
   
 **Coding Approach**
 1) Make sure the required Python libraries are installed and imported.
